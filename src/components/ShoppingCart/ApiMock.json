@@ -1,0 +1,16 @@
+{
+  "customer": {
+    "streetName": "Rua Caviuna",
+    "streetNumber": "100",
+    "neighboorhood": "Cabreúva",
+    "city": "Campo Grande",
+    "state": "MS"
+  },
+  "products": [
+    { "name": "MacBook Pro 2020 13.3", "quantity": 1, "unitPrice": 10000 },
+    { "name": "Magic Keyboard", "quantity": 1, "unitPrice": 2500 },
+    { "name": "Magic Mouse", "quantity": 1, "unitPrice": 800 },
+    { "name": "AirPods Pro", "quantity": 1, "unitPrice": 1500 }
+  ],
+  "freightRate": 50
+}

@@ -1,0 +1,25 @@
+.button {
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  background-color: rgb(37, 92, 144);
+  color: #fff;
+  border-radius: 4px;
+}
+
+.buttonPrimary {
+  background-color: rgb(37, 144, 37);
+  color: #fff;
+}
+
+.deleteSmallButton {
+  padding: 5px 10px;
+  background-color: #900;
+  color: #fff;
+}
+
+.smallButton {
+  padding: 5px 10px;
+  background-color: rgb(37, 92, 144);
+  color: #fff;
+}

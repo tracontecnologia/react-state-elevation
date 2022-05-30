@@ -1,0 +1,14 @@
+.table {
+  width: 100%;
+}
+
+.table thead tr th,
+.table tbody tr td,
+.table tfoot tr th {
+  text-align: left;
+  padding: 5px;
+}
+
+.table tfoot tr th {
+  border-top: 2px solid #000;
+}
