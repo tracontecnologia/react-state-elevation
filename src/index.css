@@ -1,0 +1,10 @@
+body {
+}
+
+.card {
+  margin: 0 auto;
+  max-width: 500px;
+  border-radius: 20px;
+  padding: 20px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+}
